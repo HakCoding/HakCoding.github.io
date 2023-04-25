@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "연산자"
-categories: Class
+categories: Java
 author_profile: true
 toc: true
 author_profile: false
