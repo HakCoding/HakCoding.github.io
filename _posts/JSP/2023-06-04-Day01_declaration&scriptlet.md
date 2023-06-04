@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "선언부와 스크립틀릿 변수의 차이"
+title: "Declarateion & Scriptelt"
 categories: JSP
 author_profile: true
 toc: true
