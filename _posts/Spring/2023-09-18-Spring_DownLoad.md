@@ -11,7 +11,7 @@ author_profile: false
 
 <h3>1) 이클립스 다운로드</h3>
 
-<img src="https://hakcoding.github.io/img/스프링 이클립스.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/스프링 이클립스.png" width="500" height="500" align="left"><br>
 
 이클립스 다운로드 : https://www.eclipse.org/downloads/ (필요한 버전 다운로드)
 
@@ -22,7 +22,7 @@ author_profile: false
 
 <h3>3) Tomcat 설치</h3>
 
-<img src="https://hakcoding.github.io/img/톰캣다운로드.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/톰캣다운로드.png" width="500" height="500" align="left"><br>
 
 톰캣 다운로드 : https://tomcat.apache.org/download-80.cgi
 (필요한 버전 다운로드)
@@ -40,51 +40,51 @@ author_profile: false
 2. catalina start를 입력
 3. Tomcat이 실행된다면 환경변수가 등록이 되었다는 뜻
 
-<img src="https://hakcoding.github.io/img/톰캣확인.png" width="800" height="300" align="left">
+<img src="https://hakcoding.github.io/img/톰캣확인.png" width="800" height="300" align="left"><br>
 
 <h3> 6) 이클립스 설정</h3>
 
 1. 이클립스 실행
 2. Windows > Preferences 클릭
 
-<img src="https://hakcoding.github.io/img/이클립스 설정1.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정1.png" width="500" height="500" align="left"><br>
 
 3. General > Workspace > Text file encoding > UTF-8로 변경
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 2.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 2.png" width="500" height="500" align="left"><br>
 
 4. Web > CSS Files / HTML Files / JSP Files > UTF-8로 변경
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 3.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 3.png" width="500" height="500" align="left"><br>
 
 5. General > Web Browser > Use external web browser 선택 (본인의 ppt 설정)
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 4.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 4.png" width="500" height="500" align="left"><br>
 
 6. Server > Add... > 자신의 톰캣 버전 클릭 > JRE 에는 설치된 자바가 하나면 default를 설치된 자바가 여러개면 1.8 버전을 선택해 Finish를 클릭
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 5.png" width="700" height="700" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 5.png" width="700" height="700" align="left"><br>
 
 7. Help > Eclipse Marketplace…  (eclipse에서 Spring framework를 사용하기 위한 준비)
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 6.png" width="700" height="700" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 6.png" width="700" height="700" align="left"><br>
 
 8. Find 에 str 검색 (Spring Tools 아이콘이 나타나지 않을경우 풀네임으로 검색)
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 7.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 7.png" width="500" height="500" align="left"><br>
 
 9. 전체 체크 후 Confirm 클릭
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 8.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 8.png" width="500" height="500" align="left"><br>
 
 10. 우측하단 100% 되는거 확인
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 9.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 9.png" width="500" height="500" align="left"><br>
 
 11. 설치중 Warning 메세지가 뜬다면 Install anyway를 선택하고 체크박스를 선택한 후 Accept selected
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 10.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 10.png" width="500" height="500" align="left"><br>
 
 12. 설치가 완료 되면 Restart Now를 선택해 Eclipse를 재시작
 
-<img src="https://hakcoding.github.io/img/이클립스 설정 11.png" width="500" height="500" align="left">
+<img src="https://hakcoding.github.io/img/이클립스 설정 11.png" width="500" height="500" align="left"><br>
